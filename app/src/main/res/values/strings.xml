@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Test App</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_exit">Exit</string>
+    <string name="action_next">Next</string>
+    <string name="action_demo">Demo</string>
+    <string name="title_activity_base">BaseActivity</string>
+    <string name="title_activity_net_banking">NetBankingActivity</string>
+    <string name="title_activity_cash_card">CashCardActivity</string>
+    <string name="title_activity_emi">EmiActivity</string>
+    <string name="title_activity_card">CardActivity</string>
+    <string name="title_activity_user_cards">UserCardsActivity</string>
+    <string name="title_activity_payments">PaymentsActivity</string>
+    <string name="pay_now">Pay</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">Ok</string>
+    <string name="click_here">Click here</string>
+    <string name="if_cvv_and_expiry_on_card"> &#160;if you have CVV and Expiry on your card</string>
+    <string name="if_dont_cvv_and_expiry_on_card"> &#160;if you don\'t have CVV and Expiry on your card</string>
+    <string name="net_banking">Net Banking</string>
+    <string name="title_activity_merchant_payment">MerchantPaymentActivity</string>
+    <string name="title_activity_verify_api">VerifyApiActivity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="test">Test</string>
+    <string name="production">Production</string>
+
+    <string-array name="environment_array">
+        <item>@string/test</item>
+        <item>@string/production</item>
+    </string-array>
+
+    <string name="use_live_key_in_production_environment">Please use your live merchant key in production environment</string>
+    <string name="could_not_receive_data">Could not receive data</string>
+</resources>
